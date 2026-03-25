@@ -6,8 +6,8 @@ A full-stack professional networking platform built with Next.js and Node.js, in
 
 ## Live Demo
 
-> Frontend: Coming soon (Vercel)  
-> Backend: Coming soon (Render)
+- Frontend: [https://proconnect-linkedin-clone-henna.vercel.app](https://proconnect-linkedin-clone-henna.vercel.app)
+- Backend: [https://proconnectlinkedinclone-lldr.onrender.com](https://proconnectlinkedinclone-lldr.onrender.com)
 
 ---
 
